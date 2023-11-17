@@ -1,0 +1,4 @@
+PDF Branch.pdf
+*.extension //ignora cualquer archivo con esa extension
+.env
+.vscode
